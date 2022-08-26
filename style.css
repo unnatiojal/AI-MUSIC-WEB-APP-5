@@ -1,0 +1,37 @@
+body {
+    background-size: cover;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+.heading {
+    width: 100%;
+    font-size: 22px;
+    margin: 0px;
+}
+
+#song_name {
+    font-size: 23px;
+    margin: 15px;
+}
+
+canvas {
+    background-color: #000000;
+    border: 5px dashed #24869f;
+    border-radius: 5px;
+    margin-top: 100px;
+    box-shadow: 5px 5px 5px #fce3b3;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #fce3b3;;
+    bottom: 0;
+    width: 100%;
+    background-color: #337ab7;
+    line-height: 3;
+    text-align: center;
+}
